@@ -1,0 +1,96 @@
+[24-Jan-2018 03:43:56 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 22
+[24-Jan-2018 03:43:56 America/New_York] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 23
+[24-Jan-2018 03:43:56 America/New_York] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 23
+[24-Jan-2018 03:43:56 America/New_York] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 12
+[24-Jan-2018 03:43:56 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 12
+[24-Jan-2018 03:43:56 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/todiocqu/eatforlife.ug/cook.php on line 625
+[27-Jan-2018 02:41:39 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 22
+[27-Jan-2018 02:41:39 America/New_York] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 23
+[27-Jan-2018 02:41:39 America/New_York] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 23
+[27-Jan-2018 02:41:39 America/New_York] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 12
+[27-Jan-2018 02:41:39 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 12
+[27-Jan-2018 02:41:39 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/todiocqu/eatforlife.ug/cook.php on line 625
+[27-Jan-2018 02:41:51 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 22
+[27-Jan-2018 02:41:51 America/New_York] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 23
+[27-Jan-2018 02:41:51 America/New_York] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 23
+[27-Jan-2018 02:41:51 America/New_York] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 12
+[27-Jan-2018 02:41:51 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 12
+[27-Jan-2018 02:41:51 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/todiocqu/eatforlife.ug/cook.php on line 625
+[27-Jan-2018 11:39:02 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 22
+[27-Jan-2018 11:39:02 America/New_York] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 23
+[27-Jan-2018 11:39:02 America/New_York] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 23
+[27-Jan-2018 11:39:02 America/New_York] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 12
+[27-Jan-2018 11:39:02 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 12
+[27-Jan-2018 11:39:02 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/todiocqu/eatforlife.ug/cook.php on line 625
+[27-Jan-2018 11:39:10 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 22
+[27-Jan-2018 11:39:10 America/New_York] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 23
+[27-Jan-2018 11:39:10 America/New_York] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 23
+[27-Jan-2018 11:39:10 America/New_York] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 12
+[27-Jan-2018 11:39:10 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 12
+[27-Jan-2018 11:39:10 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/todiocqu/eatforlife.ug/cook.php on line 625
+[28-Jan-2018 08:45:02 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 22
+[28-Jan-2018 08:45:02 America/New_York] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 23
+[28-Jan-2018 08:45:02 America/New_York] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 23
+[28-Jan-2018 08:45:02 America/New_York] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 12
+[28-Jan-2018 08:45:02 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 12
+[28-Jan-2018 08:45:02 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/todiocqu/eatforlife.ug/cook.php on line 625
+[28-Jan-2018 08:45:03 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 22
+[28-Jan-2018 08:45:03 America/New_York] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 23
+[28-Jan-2018 08:45:03 America/New_York] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 23
+[28-Jan-2018 08:45:03 America/New_York] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 12
+[28-Jan-2018 08:45:03 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 12
+[28-Jan-2018 08:45:03 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/todiocqu/eatforlife.ug/cook.php on line 625
+[28-Jan-2018 10:47:40 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 22
+[28-Jan-2018 10:47:40 America/New_York] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 23
+[28-Jan-2018 10:47:40 America/New_York] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 23
+[28-Jan-2018 10:47:40 America/New_York] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 12
+[28-Jan-2018 10:47:40 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 12
+[28-Jan-2018 10:47:40 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/todiocqu/eatforlife.ug/cook.php on line 625
+[28-Jan-2018 10:47:40 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 22
+[28-Jan-2018 10:47:40 America/New_York] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 23
+[28-Jan-2018 10:47:40 America/New_York] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 23
+[28-Jan-2018 10:47:40 America/New_York] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 12
+[28-Jan-2018 10:47:40 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 12
+[28-Jan-2018 10:47:40 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/todiocqu/eatforlife.ug/cook.php on line 625
+[30-Jan-2018 00:56:59 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 22
+[30-Jan-2018 00:56:59 America/New_York] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 23
+[30-Jan-2018 00:56:59 America/New_York] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 23
+[30-Jan-2018 00:56:59 America/New_York] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 12
+[30-Jan-2018 00:56:59 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 12
+[30-Jan-2018 00:56:59 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/todiocqu/eatforlife.ug/cook.php on line 625
+[31-Jan-2018 04:43:58 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 22
+[31-Jan-2018 04:43:58 America/New_York] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 23
+[31-Jan-2018 04:43:58 America/New_York] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 23
+[31-Jan-2018 04:43:58 America/New_York] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 12
+[31-Jan-2018 04:43:58 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 12
+[31-Jan-2018 04:43:58 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/todiocqu/eatforlife.ug/cook.php on line 625
+[31-Jan-2018 04:43:58 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 22
+[31-Jan-2018 04:43:58 America/New_York] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 23
+[31-Jan-2018 04:43:58 America/New_York] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 23
+[31-Jan-2018 04:43:58 America/New_York] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 12
+[31-Jan-2018 04:43:58 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 12
+[31-Jan-2018 04:43:58 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/todiocqu/eatforlife.ug/cook.php on line 625
+[31-Jan-2018 04:44:33 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 22
+[31-Jan-2018 04:44:33 America/New_York] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 23
+[31-Jan-2018 04:44:33 America/New_York] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 23
+[31-Jan-2018 04:44:33 America/New_York] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 12
+[31-Jan-2018 04:44:33 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 12
+[31-Jan-2018 04:44:33 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/todiocqu/eatforlife.ug/cook.php on line 625
+[31-Jan-2018 04:50:31 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 22
+[31-Jan-2018 04:50:31 America/New_York] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 23
+[31-Jan-2018 04:50:31 America/New_York] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 23
+[31-Jan-2018 04:50:31 America/New_York] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 12
+[31-Jan-2018 04:50:31 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 12
+[31-Jan-2018 04:50:31 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/todiocqu/eatforlife.ug/cook.php on line 625
+[31-Jan-2018 04:53:45 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 22
+[31-Jan-2018 04:53:45 America/New_York] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 23
+[31-Jan-2018 04:53:45 America/New_York] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 23
+[31-Jan-2018 04:53:45 America/New_York] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 12
+[31-Jan-2018 04:53:45 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 12
+[31-Jan-2018 04:53:45 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/todiocqu/eatforlife.ug/cook.php on line 625
+[01-Feb-2018 10:42:05 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 22
+[01-Feb-2018 10:42:05 America/New_York] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 23
+[01-Feb-2018 10:42:05 America/New_York] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 23
+[01-Feb-2018 10:42:05 America/New_York] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 12
+[01-Feb-2018 10:42:05 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/todiocqu/eatforlife.ug/blog/mysql.php on line 12
+[01-Feb-2018 10:42:05 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/todiocqu/eatforlife.ug/cook.php on line 625

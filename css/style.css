@@ -1,0 +1,123 @@
+.navbar {
+  background: #670101;
+  color: #CF0505; }
+  .navbar .active, .navbar .nav-item:hover {
+    border-bottom: 4px solid #f9a866; }
+  .navbar .navbar-nav {
+    margin-bottom: 0px; }
+  .navbar .nav-item {
+    margin-bottom: 0px;
+    padding-bottom: 10px;
+    padding-top: 5px; }
+  .navbar .nav-item, .navbar .nav-link {
+    font-size: 16px;
+    color: #CF0505 !important;
+    text-transform: uppercase;
+    font-weight: 400; }
+  .navbar li ~ li {
+    border-left: 1px solid #e2e2e2;
+    padding-left: 1rem; }
+
+.caret-down {
+  height: 11px;
+  width: 11px;
+  margin-left: 4px;
+  fill: currentColor; }
+
+.secondary-menu, #submenu-1, #submenu-2, #submenu-3 {
+  background: #f9f9f9;
+  border: none;
+  border-top: 4px solid #f9a866;
+  margin-top: 0px; }
+  .secondary-menu li, .secondary-menu .nav-link,
+  .secondary-menu .nav-link:visited,
+  .secondary-menu .nav-link:active, .secondary-menu .nav-link:hover, #submenu-1 li, #submenu-1 .nav-link,
+  #submenu-1 .nav-link:visited,
+  #submenu-1 .nav-link:active, #submenu-1 .nav-link:hover, #submenu-2 li, #submenu-2 .nav-link,
+  #submenu-2 .nav-link:visited,
+  #submenu-2 .nav-link:active, #submenu-2 .nav-link:hover, #submenu-3 li, #submenu-3 .nav-link,
+  #submenu-3 .nav-link:visited,
+  #submenu-3 .nav-link:active, #submenu-3 .nav-link:hover {
+    color: #000;
+    font-size: 13px;
+    padding: .2rem;
+    padding-left: .6rem;
+    border: none; }
+  .secondary-menu li:hover, #submenu-1 li:hover, #submenu-2 li:hover, #submenu-3 li:hover {
+    background: #e2e2e2; }
+  .secondary-menu .nav-link, #submenu-1 .nav-link, #submenu-2 .nav-link, #submenu-3 .nav-link {
+    color: #000 !important; }
+
+#footer-section {
+  background: #670101;
+  min-height: 150px;
+  text-transform: uppercase;
+  font-size: 12px; }
+  #footer-section .footer-header {
+    font-size: 13px;
+    border-bottom: 1px solid #f9f9f9;
+    padding-bottom: .5rem; }
+  #footer-section .nav-link {
+    color: #f5fff5;
+    font-size: 11px; }
+  #footer-section .nav-item .nav-link {
+    padding: .1rem; }
+  #footer-section .fa {
+    font-size: 20px; }
+  #footer-section p {
+    text-transform: capitalize;
+    color: #fff;
+    line-height: 1.6; }
+
+.bg-red {
+  background: #670101; }
+
+#mission-section p, #grey-section p {
+  font-size: 1.5rem; }
+
+.bg-grey {
+  background: #f9f9f9; }
+
+.text-red {
+  color: #670101; }
+
+#dinner-show-section .img {
+  width: 100%; }
+
+#dinner-show-section p {
+  font-size: 1.2rem; }
+
+.slide-crop {
+  max-height: 435px;
+  overflow: hidden; }
+
+.slide-crop img {
+  max-height: initial;
+  /* Maybe optional. See note below */ }
+
+.carousel-caption {
+  position: absolute;
+  top: 160px; }
+  .carousel-caption h3, .carousel-caption span {
+    background: rgba(0, 0, 0, 0.3);
+    display: inline-block;
+    padding: .5rem; }
+  .carousel-caption .btn {
+    background: #000;
+    border-radius: 0px; }
+
+.bg-black {
+  background: #000; }
+
+.text-black {
+  color: #000; }
+
+#dinner-show-section {
+  max-height: 185px;
+  overflow: hidden; }
+  #dinner-show-section img {
+    max-height: initial; }
+
+.q-label {
+  background: #670101;
+  color: #fff; }
